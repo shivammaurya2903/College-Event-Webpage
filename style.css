@@ -383,3 +383,80 @@ footer {
 }
 
 
+.form-section {
+  padding: 60px 20px;
+  
+  max-width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  background-color: #1B1F3B;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.user-form input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+}
+
+.user-form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #E4580B;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.user-form button:hover {
+  background-color: #ff6f3c;
+}
+
+.user-form p {
+  margin-top: 15px;
+  font-size: 0.95em;
+}
+
+.user-form a {
+  color: #FFD700;
+  text-decoration: none;
+}
+
+
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #E4580B;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+
+#editForm input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border: none;
+}
+
+#editForm button {
+  padding: 10px;
+  background-color: #E4580B;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
